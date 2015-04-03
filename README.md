@@ -2,6 +2,7 @@
 
 ####Unsorted List:
 * Yuviva = How a child grows up in different parts of the world, showcased with Worldbank API. https://yuviva.heroku.com  GITHUB: https://github.com/ajeshh/JourneyOfChild/
+* Pseudo Code Generator http://pseudo.club/ (Created in under 8 hours at Launch Hack, DB not working yet)
 * GA - Connect = Social Media for General Assembly Students https://ga-connect-social.heroku.com   GITHUB:  https://github.com/ajeshh/ga-connect
 * Aj.ly = URL Shortener https://aj-ly.heroku.com/urls/new   GITHUB:  https://github.com/ajeshh/ritly
 * Angular Hangman GITHUB: https://github.com/ajeshh/angular-hangman
